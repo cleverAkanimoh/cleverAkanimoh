@@ -5,5 +5,4 @@
 - 🌱 I’m currently learning React native...
 - 💞️ I’m looking to collaborate on web development frontend and backend...
 - 📫 How to reach me https://cleverakanimoh.github.io/projectClever/
-- - link to my CV - https://docs.google.com/document/d/1rAXfTE_q3a7iLQzZHd97Ik8dndn3wJjNIGaqJtpcCTQ/edit?usp=sharing
-
+- 📫 link to my CV - https://www.canva.com/design/DAFStoxOW2k/8D-JQvLTttkqyAVs3yUifg/view?utm_content=DAFStoxOW2k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
