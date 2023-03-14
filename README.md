@@ -3,5 +3,5 @@
 - 💞️ My skills include HTML CSS JAVASCRIPT JQUERY BOOTSTRAP TAILWINDCSS UIUX PYTHON DJANGO EXPRESS.JS REACT.JS R programming.
 - 👀 I’m interested in collaborating on cool projects and learning new fun stuff...
 - 💞️ I’m looking to collaborate on web development frontend and backend...
-- 📫 How to reach me https://cleverakanimoh.github.io/projectClever/
-- 📫 link to my CV - https://www.canva.com/design/DAFStoxOW2k/8D-JQvLTttkqyAVs3yUifg/view?utm_content=DAFStoxOW2k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- 📫 reach me on <a href="https://www.linkedin.com/in/cleverakanimoh">LinkedIn</a>
+- 📫 link to my CV <a href="https://www.canva.com/design/DAFStoxOW2k/8D-JQvLTttkqyAVs3yUifg/view?utm_content=DAFStoxOW2k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">here</a>
