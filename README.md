@@ -6,7 +6,7 @@
      lastName: Akanimoh,
      dateOfBirth: 21st February xxxx,
      title: web developer,
-     description: I believe that the relationship between science and technology is what drives experiences from good to great,
+     description: I believe that Creative Collaboration between design and technology is the magic that takes experience from good to great.,
      skills: {
         frontend: [HTML, CSS, JQUERY, BOOTSTRAP, TAILWINDCSS, UIUX, REACT.JS, REDUX],
         backend: [EXPRESS.JS, DJANGO, restAPI],
