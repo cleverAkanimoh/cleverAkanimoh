@@ -29,4 +29,4 @@
 }</pre>
 
 - 👀 I’m looking to collaborate on frontend and backend web development projects.
-- 📫 link to my CV <a href="https://www.canva.com/design/DAFStoxOW2k/8D-JQvLTttkqyAVs3yUifg/view?utm_content=DAFStoxOW2k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">here</a>
+- 📫 (link to my CV)[https://www.canva.com/design/DAFuu37zO-U/ZBfDRKMcnotEAHRDQfF8iQ/edit?utm_content=DAFuu37zO-U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
