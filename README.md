@@ -29,4 +29,3 @@
 }</pre>
 
 - 👀 I’m looking to collaborate on frontend and backend web development projects.
-- (https://www.canva.com/design/DAFuu37zO-U/ZBfDRKMcnotEAHRDQfF8iQ/edit?utm_content=DAFuu37zO-U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)[link to my CV]
