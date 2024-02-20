@@ -1,6 +1,6 @@
 👋 Hello there! I'm a passionate web developer with expertise in crafting delightful digital experiences. 
 
-*Here's a glimpse into what I bring to the table:*
+Here's what I bring to the table:
 
 🌟 **Skills**: I excel in a wide array of technologies and frameworks, including:
 
