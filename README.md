@@ -1,10 +1,11 @@
-### 👋 Hi,
+### 👋 Hello There,
 
 I'm a passionate web developer focused on creating delightful digital experiences. My skills include:
 
-- **Next.js**, **React.js**, **Gatsby**
-- **Tailwind CSS**, **Chakra UI**, **Material UI**, **Chadcn**
-- **Express.js**, **Python**, **Django**
+- **HTML**, **CSS**, **Javascript**, **Typescript**, **React.js**, **Gatsby**
+- **Tailwind CSS**, **Chakra UI**, **Material UI**, **Shadcn UI**
+- **Prisma**, **Vercel**, **Supabase**, **Mongo DB**
+- **Express.js**, **Python**, **Django**, **Next.js**
 - **Redux**
 
 With experience in delivering impactful solutions across various domains, I thrive on innovation and excellence. I actively contribute to the developer community through open-source projects, blog posts, and mentorship.
