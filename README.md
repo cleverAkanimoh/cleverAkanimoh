@@ -1,6 +1,6 @@
 ### 👋 Hello There,
 
-I'm a passionate web developer focused on creating delightful digital experiences. My skills include:
+I'm a passionate software developer focused on creating delightful digital experiences. My skills include:
 
 - **HTML**, **CSS**, **Javascript**, **Typescript**, **React.js**, **Gatsby**
 - **Tailwind CSS**, **Chakra UI**, **Material UI**, **Shadcn UI**
