@@ -1,4 +1,4 @@
-### 👋 Hello There,
+### 👋 Hello,
 
 I'm a passionate software developer focused on creating delightful digital experiences. My skills include:
 
@@ -9,6 +9,6 @@ I'm a passionate software developer focused on creating delightful digital exper
 - **Redux**
 - **Flutter**, **Dart**
 
-With experience in delivering impactful solutions across various domains, I thrive on innovation and excellence. I actively contribute to the developer community through open-source projects, blog posts, and mentorship.
+With experience in delivering impactful solutions across various domains, I thrive on innovation and excellence. I contribute to the developer community through open-source projects, blog posts, and mentorship.
 
-Let’s collaborate to turn your ideas into amazing digital experiences! 👨‍💻✨
+Let’s collaborate to turn your ideas into amazing digital experiences!
