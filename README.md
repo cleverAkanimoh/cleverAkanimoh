@@ -1,4 +1,4 @@
-### 👋 Hello,
+### 👋 Hello
 
 I'm a passionate software developer focused on creating delightful digital experiences. My skills include:
 
